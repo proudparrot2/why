@@ -1,0 +1,11 @@
+{
+  "name": "Test application",
+  "id": "",
+  "icon": "",
+
+  "window": {
+
+  },
+
+  "root": "index.html"
+}
